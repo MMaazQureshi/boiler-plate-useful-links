@@ -6,4 +6,7 @@
     https://hackernoon.com/redux-saga-tutorial-for-beginners-and-dog-lovers-aa69a17db645
 3) Role based authentication with Identity Server 4:
     https://themisir.com/adding-role-claim-to-identity-server-4/
-4) Nginx :https://dev.to/danielkun/nginx-everything-about-proxypass-2ona
+4) jwt based authentication and authorization in asp.net core:
+    https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/
+5) Nginx :
+    https://dev.to/danielkun/nginx-everything-about-proxypass-2ona
