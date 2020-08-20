@@ -10,3 +10,5 @@
     https://devblogs.microsoft.com/aspnet/jwt-validation-and-authorization-in-asp-net-core/
 5) Nginx :
     https://dev.to/danielkun/nginx-everything-about-proxypass-2ona
+    *location and server block in nginx:
+    https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
