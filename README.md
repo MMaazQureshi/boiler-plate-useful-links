@@ -13,5 +13,6 @@
     
     *location and server block in nginx:
     https://www.digitalocean.com/community/tutorials/understanding-nginx-server-and-location-block-selection-algorithms
+    
     *Building njs modules in nginx
     https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/
