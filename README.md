@@ -18,5 +18,7 @@
     
     *Building njs modules in nginx
     https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/
+
 **Articles:**
 1) How JS Works under the hood: https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
+2) Interview guide by TripleByte: https://triplebyte.com/blog/triplebyte-s-way-too-long-technical-interview-prep-guide
