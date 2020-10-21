@@ -18,6 +18,7 @@
     
     *Building njs modules in nginx
     https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/
+6) MERN Crud:https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/ 
 
 **Articles:**
 1) How JS Works under the hood: https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
