@@ -20,6 +20,7 @@
     https://www.nginx.com/blog/compiling-dynamic-modules-nginx-plus/
 6) MERN Crud:https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/ 
 7) change git user in windows: https://superuser.com/questions/1064197/how-to-switch-git-user-at-terminal
+8) resolving services in static classes :https://www.davidezoccarato.cloud/resolving-instances-with-asp-net-core-di-in-static-classes/
 
 **Articles:**
 1) How JS Works under the hood: https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
