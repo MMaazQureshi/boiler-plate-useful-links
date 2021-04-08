@@ -25,3 +25,4 @@
 **Articles:**
 1) How JS Works under the hood: https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
 2) Interview guide by TripleByte: https://triplebyte.com/blog/triplebyte-s-way-too-long-technical-interview-prep-guide
+3) Kubernetes and docker handbook : https://www.freecodecamp.org/news/the-kubernetes-handbook/
