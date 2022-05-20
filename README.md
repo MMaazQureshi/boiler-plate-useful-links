@@ -21,6 +21,7 @@
 6) MERN Crud:https://codingthesmartway.com/the-mern-stack-tutorial-building-a-react-crud-application-from-start-to-finish-part-1/ 
 7) change git user in windows: https://superuser.com/questions/1064197/how-to-switch-git-user-at-terminal
 8) resolving services in static classes :https://www.davidezoccarato.cloud/resolving-instances-with-asp-net-core-di-in-static-classes/
+9) light weight phone validation library: https://catamphetamine.gitlab.io/libphonenumber-js/?parseCountry=US&parseValue=213-373-4253&asYouTypeCountry=US&asYouTypeValue=12345678900&findNumbersCountry=US&findNumbersText=For%20more%20details%20call%20%2B7%20(800)%20555-35-35%20internationally%20or%20reach%20the%20local%20US%20branch%20at%20(213)%20373-4253%20ext.%201234%20for%20paid%20customer%20support.
 
 **Articles:**
 1) How JS Works under the hood: https://www.freecodecamp.org/news/javascript-under-the-hood-v8/
