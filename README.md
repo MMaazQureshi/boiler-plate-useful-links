@@ -28,3 +28,4 @@
 2) Interview guide by TripleByte: https://triplebyte.com/blog/triplebyte-s-way-too-long-technical-interview-prep-guide
 3) Kubernetes and docker handbook : https://www.freecodecamp.org/news/the-kubernetes-handbook/
 4) covariance and contra variance in c#: https://www.tutorialsteacher.com/csharp/csharp-covariance-and-contravariance
+ https://stackoverflow.com/questions/10956993/out-t-vs-t-in-generics
